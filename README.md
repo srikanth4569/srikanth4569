@@ -1,16 +1,21 @@
 ### Hi there 👋
+***  
+**About My self**
+1.  i am **Srikanth Reddy Bhumpalli** 
+2. Born and Brought up from Andhra Pradesh
+3. grown up with the best sibling
+4. completed my education
 
-<!--
-**srikanth4569/srikanth4569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
+**Presently working on**
+1. going to pursue masters in Applied computer science
+2. working on github is challenging right now but i am enjoying every bit of it by learning and applying<br>
+3. along with the other subjects 
 
-Here are some ideas to get you started:
+***
+**MyInterests**
+1. Reading books when i have time
+2. watching movies
+3. working out in the gym
+4. playing cricket
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
